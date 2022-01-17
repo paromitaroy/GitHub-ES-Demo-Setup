@@ -14,5 +14,13 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 
 - You will be able to download your license key by going to Download
 
-<img src>
+<img src= /images/download.jpg>
+
+- Download the license key and you can either deploy your instance on-premsies or in the cloud
+
+### 3. Pick the installation type
+
+- I went ahaed with a **'New Install'**
+
+<img src= /images/installation_type.jpg>
 
