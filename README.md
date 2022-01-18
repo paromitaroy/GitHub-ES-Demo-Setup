@@ -35,6 +35,10 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 
 - To finish installation you will have to upload the license key and provie a password. 
 
+- Copy the DNS name of the VM instance and open in the browser, ignore any SSL warnings & upload your cert
+
+<img src= /images/ignore.png>
+
 <img src= /images/upload-cert.png>
 
 ### 5. Create an Admin account and an Org
