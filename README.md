@@ -27,7 +27,7 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 ### 4. Deployment 
 
 - In the next step, populate the information in the template and review+create
-<img src= /images/.png>
+<img src= /images/deploy-template.png>
 
 
 #### Deployed resources 
