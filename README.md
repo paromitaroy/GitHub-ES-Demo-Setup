@@ -20,7 +20,26 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 
 ### 3. Pick the installation type
 
-- I went ahaed with a **'New Install'**
+- I went ahead with a **'New Install'**
 
 <img src= /images/installation_type.jpg>
+
+### 4. Deployment 
+
+- In the next step, populate the information in the template and review+create
+<img scr= /images/.png>
+
+
+#### Deployed resources 
+<img scr= /images/deployed-resources.png>
+
+- Copy the DNS name of the VM instance and open in the browser 
+
+- It is going to ask you to create an admin account
+
+<img scr= /images/admin-account.png>
+
+- Once you create an admin account, it will take you to the management console where you will enable actions, packages for your Org.
+
+- 
 
