@@ -33,6 +33,10 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 #### Deployed resources 
 <img src= /images/deployed-resources.png>
 
+- To finish installation you will have to upload the license key and provie a password. 
+
+<img src= /images/upload-cert.png>
+
 ### 5. Create an Admin account and an Org
 
 - Copy the DNS name of the VM instance and open in the browser 
