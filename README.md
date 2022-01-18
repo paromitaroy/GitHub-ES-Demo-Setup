@@ -33,21 +33,27 @@ For deatiled recommendations see the [installation guide](https://docs.github.co
 #### Deployed resources 
 <img src= /images/deployed-resources.png>
 
+### 5. Create an Admin account and an Org
+
 - Copy the DNS name of the VM instance and open in the browser 
 
-- It is going to ask you to create an admin account
+- It is going to ask you to create an admin account and will also ask if you want to create an Org
 
 <img src= /images/admin-account.png>
 
-- Once you create an admin account, it will take you to the management console where you will enable actions, packages for your Org.
+Created org will look similar to this - 
+
+<img src= /images/demo-org.png>
+
+- Once you create an admin account, it will take you to the management console where you will enable actions, packages for your Org
 
 ### 5. Enable Actions and Packages
 
-Login to the management console which can also be access via https://DNS-name:8443/setup/settings
+- Login to the management console which can also be access via https://DNS-name:8443/setup/settings
 
-Enable GitHub actions, in order to save the settings successfully you will need to create a Storage account and put the connection string under Artifact & Log Storage option and 'Click storage settings' 
+- Enable GitHub actions, in order to save the settings successfully you will need to create a Storage account and put the connection string under Artifact & Log Storage option and 'Click storage settings' 
 
-Do the same for packages and save settings whioch is important else it is not gonna save the settings 
+- Do the same for packages and save settings whioch is important else it is not gonna save the settings 
 
 <img src= /images/enable-action.png>
 
